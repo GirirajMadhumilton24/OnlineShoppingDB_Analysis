@@ -89,10 +89,3 @@ This database system supports enhanced business intelligence by providing detail
 
 ---
 
-## Author
-[Your Name]
-
----
-
-## License
-[Specify license here, if applicable]
